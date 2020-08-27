@@ -15,10 +15,10 @@ I will update this repo with all the solutions.
 |---|---------------------------------------------------------------------------------------------------------------|
 |1	|`Given a string return me the word backwards. If s="diego" then the answer is ogeid`            	            |
 |2  |`Give me the factorial of a number iteratively`                                                                |
-|3  |`Give a number, return its binary representation`                                                              |  
+|3  |`Given a number, return its binary representation`                                                             |  
 |4  |`Given 2 strings representing 2 binary numbers, return the addition of this 2 numbers also in binary format`   |
 |5  |`Given a string and a number, return the word encrypted using cesar cypher`                                    |
-|6  |`Give me the factorial of	 a number recursively`                                                              |
+|6  |`Give me the factorial of a number recursively`                                                                |
 |7  |`Python has the function .replace(). Implement your own wich works as same as the python one`                  |
 |8  |`Investigate what is bubble sort and implement it`                                                             |
 |9  |`Investigate what is insertion sort and implement it`                                                          |
