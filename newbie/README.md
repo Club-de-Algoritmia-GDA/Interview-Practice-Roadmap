@@ -10,7 +10,6 @@ I will update this repo with all the solutions.
 
 ## Exercises
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
 | # |Problem                                                                                                        |
 |---|---------------------------------------------------------------------------------------------------------------|
