@@ -9,15 +9,19 @@ Also for those who are going to have more advanced interviews such as SWE, they 
 Checkout our oficial page [https://www.algoritmia-gda.club/](https://www.algoritmia-gda.club/)
 ## How to use it
 
+If you are just starting out checkout our [Newbie section](https://github.com/Club-de-Algoritmia-GDA/Interview-Practice-Roadmap/tree/master/newbie).
 
- - Fork this repo to your Github
- - Solve one to many exercise,  once you want us to review them go to the next step
- - Create your own branch with your Github user.
- - Push your solution(s) and create a Pull Request.
- - One staff member will review your solution(s) and give feedback.
- - Once you have implemented the feedback repeat step 4 (don't erase your previous solution(s), just add the new code on the bottom of your code, so everyone can see different approaches).
- - Once your solution is approved we're merging your solution(s) to master branch.
- - Repeat
+
+
+
+1. Fork this repo to your Github
+2. Solve one to many exercise,  once you want us to review them go to the next step
+3. Create your own branch with your Github user.
+4. Push your solution(s) and create a Pull Request.
+5. One staff member will review your solution(s) and give feedback.
+6. Once you have implemented the feedback repeat step 4 (don't erase your previous solution(s), just add the new code on the bottom of your code, so everyone can see different approaches).
+ 7. Once your solution is approved we're merging your solution(s) to master branch.
+ 9. Repeat
  
  **Remember that practice and constancy makes the difference.**
 ## Useful Resources
