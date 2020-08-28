@@ -15,12 +15,13 @@ Else if you are applying for a SWE internship checkout our [SWE section](https:/
 
 
 1. Fork this repo to your Github
-2. Solve one to many exercise,  once you want us to review them go to the next step
-3. Create your own branch with your Github user.
-4. Push your solution(s) and create a Pull Request.
-5. One staff member will review your solution(s) and give feedback.
-6. Once you have implemented the feedback repeat step 4 (don't erase your previous solution(s), just add the new code on the bottom of your code, so everyone can see different approaches).
- 7. Once your solution is approved we're merging your solution(s) to master branch.
+2. Create a new folder with your name or user inside the corresponding folder you are using(newbie, explorer-fbu,step, SWE). Inside that folder you need to place all of your solution's corresponding to that section and the solution file(s) must have the same name as the problems.
+3. Solve one to many exercise,  once you want us to review them go to the next step
+4. Create your own branch with your Github user.
+5. Push your solution(s) and create a Pull Request.
+6. One staff member will review your solution(s) and give feedback.
+7. Once you have implemented the feedback repeat step 4 (don't erase your previous solution(s), just add the new code on the bottom of your code, so everyone can see different approaches).
+ 8. Once your solution is approved we're merging your solution(s) to master branch.
  9. Repeat
  
  **Remember that practice and constancy makes the difference.**
