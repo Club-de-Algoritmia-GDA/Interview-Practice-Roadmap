@@ -11,6 +11,10 @@ This is a serie of exercises to help you get started in the technical interview 
 
 If you want us to check your solution(s) please create a Pull Request to this repo. For more information checkout
 our [how to upload you solution(s) guide](https://github.com/Club-de-Algoritmia-GDA/Interview-Practice-Roadmap#how-to-use-it).
+
+**Important**:
+Create a new folder with your name or user inside this folder, in there you need to place all of your solution file(s), and the file(s) must have the same name as the problems.
+
 We will be uploading solutions to all problems
 ## Exercises
 
