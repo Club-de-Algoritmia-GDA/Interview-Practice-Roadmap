@@ -10,7 +10,7 @@ Checkout our oficial page [https://www.algoritmia-gda.club/](https://www.algorit
 ## How to use it
 
 If you are just starting out checkout our [Newbie section](https://github.com/Club-de-Algoritmia-GDA/Interview-Practice-Roadmap/tree/master/newbie).
-
+Else if you are applying for a SWE internship checkout our [SWE section](https://github.com/Club-de-Algoritmia-GDA/Interview-Practice-Roadmap/tree/master/swe-intern).
 
 
 
